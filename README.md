@@ -47,9 +47,16 @@ sua empresa. Vamos ajudá-lo. Iremos começar construindo o banco de dados.
 
 !["Modelo conceitual de banco de dados"](modelo-conceitual-casa-oliveira.png)
 
+### Normalização feita no Exel.
+#### Foram realizadas três normalizações
+
+!["Primeira parte"](normalizacao-exel1.png)
+!["Segunda parte"](normalizacao-exel2.png)
+
 ### Modelo Logico
 
 !["Modelo logico de banco de dados"](modelo1-casa-oliveira.png)
+
 
 
 ### Codigo SQL para modelo fisico do banco de dados 
